@@ -1,5 +1,22 @@
-
-app.js
-index.html
-style.css
-cards.json   ← this one
+[
+    {
+        "name": "The Fool",
+        "meaning": "A fresh start, new beginnings, and a leap of faith."
+    },
+    {
+        "name": "The Magician",
+        "meaning": "Manifestation, power, and using your skills to create change."
+    },
+    {
+        "name": "The High Priestess",
+        "meaning": "Intuition, hidden knowledge, and trusting your inner voice."
+    },
+    {
+        "name": "The Empress",
+        "meaning": "Creativity, abundance, nurturing energy, and growth."
+    },
+    {
+        "name": "The Emperor",
+        "meaning": "Authority, structure, leadership, and taking control."
+    }
+]
